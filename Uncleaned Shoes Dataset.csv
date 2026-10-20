@@ -1,0 +1,501 @@
+﻿Date,Product,Category,Color,Brand,Country,Quantity,Payment Type
+5/19/2026,monk straps,Formal,Red,Nike,Uganda,7,Bank Transfer
+6/26/2026,loafers,Formal,Black,nike,Uganda,1,Card
+5/30/2026,Derby,FORMAL,Green,clarks,Nigeria,7,Bank Transfer
+7/11/2026,boots,UTILITY,Black,nike,Canada,6,Bank Transfer
+4/18/2026,BOOTS,casual,Red,CLARKS,UK,6,Bank Transfer
+3/12/2026,Canvas,Utility,Blue,NIKE,Ghana,6,Card
+6/18/2026,canvas,Formal,Green,clarks,USA,13,Cash
+7/9/2026,monk straps,Formal,Brown,timberland,USA,12,Cash
+1/16/2026,Derby,formal,Green,clarks,Australia,10,Cash
+6/9/2026,OXFORD,Formal,Black,clarks,Cyprus,15,Mobile Money
+4/20/2026,BOOTS,Formal,Brown,Clarks,India,8,Bank Transfer
+3/16/2026,loafers,casual,Green,Clarks,Australia,9,Cash
+5/4/2026,BROGUES,UTILITY,Green,Nike,Germany,14,Bank Transfer
+1/9/2026,oxford,formal,Green,timberland,Nigeria,4,Card
+6/26/2026,SLIPPERS,FORMAL,Red,ZARA,Uganda,6,Card
+7/23/2026,derby,Casual,Green,Zara,Philippines,10,Cash
+4/13/2026,boots,OPEN,Red,Steve Madden,Nigeria,7,Bank Transfer
+5/20/2026,DERBY,CASUAL,Blue,CLARKS,UK,7,Mobile Money
+3/31/2026,Oxford,OPEN,Black,clarks,UK,11,Cash
+5/5/2026,boots,UTILITY,Red,NIKE,Zimbabwe,6,Cash
+8/7/2026,Monk Straps,Formal,Red,CLARKS,Germany,8,Card
+7/14/2026,BROGUES,Casual,Green,Steve Madden,Australia,5,Mobile Money
+1/12/2026,OXFORD,formal,Green,STEVE MADDEN,Zimbabwe,15,Card
+1/28/2026,Canvas,FORMAL,Green,steve madden,Cyprus,1,Card
+1/13/2026,Boots,CASUAL,Blue,Clarks,Ghana,12,Cash
+3/13/2026,loafers,UTILITY,Green,Steve Madden,India,9,Mobile Money
+7/11/2026,oxford,Formal,Green,clarks,Ghana,5,Mobile Money
+3/10/2026,loafers,CASUAL,Green,Clarks,Zimbabwe,8,Bank Transfer
+4/30/2026,OXFORD,formal,Red,zara,Nigeria,2,Bank Transfer
+2/15/2026,MONK STRAPS,Formal,Blue,ZARA,Albania,7,Cash
+7/16/2026,brogues,formal,Red,STEVE MADDEN,Germany,12,Mobile Money
+6/12/2026,Canvas,formal,Blue,CLARKS,Zimbabwe,15,Card
+8/2/2026,boots,FORMAL,Red,Zara,Uganda,7,Mobile Money
+3/30/2026,BROGUES,formal,Black,nike,Cyprus,10,Bank Transfer
+4/20/2026,monk straps,Open,Green,nike,Philippines,7,Bank Transfer
+7/25/2026,boots,formal,Red,timberland,Canada,5,Card
+6/3/2026,Boots,FORMAL,Red,Clarks,India,11,Bank Transfer
+7/23/2026,slippers,CASUAL,Red,zara,Zimbabwe,10,Bank Transfer
+7/25/2026,loafers,Open,Green,CLARKS,USA,10,Mobile Money
+6/3/2026,OXFORD,Formal,Red,STEVE MADDEN,Germany,13,Bank Transfer
+3/9/2026,brogues,formal,Blue,clarks,USA,7,Cash
+2/19/2026,Boots,open,Green,Nike,Nigeria,14,Cash
+7/17/2026,OXFORD,OPEN,Green,CLARKS,Ghana,13,Mobile Money
+4/15/2026,Loafers,Open,Red,Nike,Philippines,3,Card
+4/19/2026,Boots,formal,Green,steve madden,UK,1,Bank Transfer
+5/23/2026,BROGUES,Formal,Red,CLARKS,Germany,9,Mobile Money
+8/3/2026,Boots,FORMAL,Green,zara,Albania,5,Mobile Money
+3/5/2026,OXFORD,CASUAL,Black,NIKE,USA,11,Mobile Money
+3/29/2026,LOAFERS,formal,Black,zara,USA,6,Card
+6/27/2026,BOOTS,UTILITY,Blue,zara,Kenya,1,Mobile Money
+8/6/2026,Canvas,Casual,Red,clarks,Albania,4,Bank Transfer
+1/29/2026,oxford,UTILITY,Black,clarks,India,5,Cash
+3/5/2026,monk straps,Formal,Black,zara,Uganda,4,Card
+2/16/2026,brogues,formal,Black,Zara,Nigeria,1,Mobile Money
+3/28/2026,Canvas,formal,Red,nike,Zimbabwe,4,Bank Transfer
+4/2/2026,Monk Straps,CASUAL,Black,CLARKS,Canada,5,Card
+6/2/2026,CANVAS,OPEN,Black,STEVE MADDEN,Cyprus,2,Cash
+1/23/2026,SLIPPERS,formal,Red,NIKE,Nigeria,1,Bank Transfer
+7/27/2026,BROGUES,Casual,Green,Nike,Uganda,15,Bank Transfer
+6/23/2026,boots,formal,Green,STEVE MADDEN,UK,11,Mobile Money
+4/9/2026,Oxford,utility,Red,Clarks,Ghana,10,Card
+6/21/2026,canvas,FORMAL,Brown,STEVE MADDEN,Canada,9,Card
+2/28/2026,Loafers,formal,Blue,nike,Uganda,1,Bank Transfer
+6/24/2026,OXFORD,Formal,Green,ZARA,Cyprus,8,Bank Transfer
+3/31/2026,oxford,CASUAL,Green,STEVE MADDEN,Germany,5,Bank Transfer
+4/12/2026,derby,Casual,Black,TIMBERLAND,Nigeria,14,Card
+5/19/2026,MONK STRAPS,OPEN,Brown,clarks,UK,14,Mobile Money
+1/6/2026,BROGUES,FORMAL,Black,clarks,Zimbabwe,8,Mobile Money
+6/6/2026,Loafers,FORMAL,Black,CLARKS,Philippines,7,Bank Transfer
+6/9/2026,brogues,open,Green,clarks,Philippines,7,Mobile Money
+3/4/2026,monk straps,Formal,Green,timberland,Ghana,8,Cash
+7/10/2026,derby,Casual,Green,Clarks,UK,9,Mobile Money
+3/8/2026,boots,FORMAL,Brown,Zara,UK,5,Card
+6/1/2026,boots,formal,Blue,STEVE MADDEN,Philippines,9,Cash
+2/24/2026,Oxford,casual,Brown,CLARKS,Germany,7,Card
+5/6/2026,Oxford,formal,Green,clarks,Uganda,13,Cash
+2/5/2026,LOAFERS,formal,Blue,ZARA,Ghana,8,Card
+3/3/2026,DERBY,casual,Brown,timberland,Philippines,11,Mobile Money
+4/21/2026,BROGUES,Formal,Green,CLARKS,Australia,11,Card
+7/16/2026,Slippers,formal,Black,TIMBERLAND,Kenya,15,Card
+3/9/2026,Canvas,casual,Brown,Zara,Zimbabwe,10,Bank Transfer
+4/5/2026,boots,Utility,Brown,ZARA,Cyprus,4,Bank Transfer
+3/16/2026,BOOTS,Casual,Green,STEVE MADDEN,India,7,Mobile Money
+1/19/2026,Derby,UTILITY,Blue,steve madden,Albania,7,Cash
+6/14/2026,Boots,Formal,Green,ZARA,Nigeria,13,Mobile Money
+5/2/2026,Loafers,UTILITY,Green,timberland,Albania,12,Bank Transfer
+2/4/2026,BOOTS,casual,Red,TIMBERLAND,Uganda,14,Cash
+2/14/2026,oxford,Formal,Brown,clarks,Albania,8,Cash
+3/18/2026,boots,formal,Green,CLARKS,Cyprus,3,Bank Transfer
+3/9/2026,Derby,UTILITY,Black,Steve Madden,Ghana,8,Card
+3/30/2026,Slippers,Utility,Green,zara,Ghana,14,Bank Transfer
+7/1/2026,BROGUES,formal,Green,STEVE MADDEN,Nigeria,7,Mobile Money
+8/12/2026,LOAFERS,utility,Brown,CLARKS,UK,5,Cash
+1/11/2026,Oxford,Formal,Green,STEVE MADDEN,Nigeria,14,Cash
+6/30/2026,slippers,Open,Red,Clarks,USA,6,Cash
+1/22/2026,Slippers,CASUAL,Red,nike,Nigeria,7,Card
+7/20/2026,Loafers,formal,Green,Clarks,Canada,9,Bank Transfer
+4/6/2026,monk straps,FORMAL,Blue,Steve Madden,Ghana,10,Card
+1/12/2026,brogues,Casual,Red,nike,Zimbabwe,6,Card
+6/24/2026,Oxford,open,Brown,clarks,UK,12,Card
+3/20/2026,boots,casual,Brown,ZARA,India,4,Bank Transfer
+7/13/2026,MONK STRAPS,Formal,Black,Zara,Ghana,8,Mobile Money
+1/18/2026,DERBY,FORMAL,Blue,CLARKS,Uganda,8,Cash
+6/14/2026,slippers,Utility,Brown,ZARA,UK,6,Card
+6/12/2026,MONK STRAPS,open,Black,timberland,Uganda,9,Card
+8/6/2026,Boots,Casual,Brown,zara,UK,2,Mobile Money
+1/18/2026,brogues,Formal,Brown,ZARA,Australia,4,Cash
+5/2/2026,monk straps,Formal,Red,ZARA,UK,15,Cash
+4/18/2026,Boots,Utility,Red,zara,USA,15,Bank Transfer
+2/21/2026,derby,formal,Green,Clarks,Philippines,8,Card
+6/20/2026,Monk Straps,CASUAL,Brown,NIKE,UK,7,Card
+4/25/2026,Slippers,Casual,Red,Clarks,Cyprus,8,Bank Transfer
+5/30/2026,Monk Straps,FORMAL,Red,Steve Madden,Ghana,13,Cash
+2/28/2026,OXFORD,FORMAL,Green,nike,UK,14,Bank Transfer
+5/12/2026,Monk Straps,FORMAL,Green,clarks,Kenya,12,Cash
+2/22/2026,CANVAS,OPEN,Green,CLARKS,India,10,Card
+5/4/2026,brogues,formal,Blue,CLARKS,Philippines,6,Card
+6/24/2026,monk straps,OPEN,Brown,Zara,Uganda,13,Card
+3/20/2026,Derby,FORMAL,Green,CLARKS,Nigeria,4,Mobile Money
+5/20/2026,Boots,Formal,Black,CLARKS,UK,12,Bank Transfer
+8/14/2026,Monk Straps,Formal,Green,zara,USA,5,Mobile Money
+1/27/2026,loafers,utility,Red,Nike,Cyprus,7,Bank Transfer
+6/17/2026,Loafers,FORMAL,Brown,timberland,UK,15,Bank Transfer
+6/2/2026,oxford,Formal,Red,CLARKS,India,15,Bank Transfer
+1/28/2026,DERBY,Formal,Red,CLARKS,Philippines,5,Bank Transfer
+7/2/2026,SLIPPERS,casual,Blue,steve madden,Albania,3,Cash
+4/9/2026,OXFORD,FORMAL,Blue,Nike,Uganda,14,Cash
+2/3/2026,BROGUES,FORMAL,Black,clarks,Germany,7,Cash
+7/19/2026,derby,utility,Brown,ZARA,Canada,8,Cash
+7/7/2026,Boots,formal,Green,zara,Canada,3,Card
+2/12/2026,oxford,FORMAL,Brown,zara,Kenya,10,Card
+1/3/2026,derby,FORMAL,Red,clarks,Philippines,15,Mobile Money
+5/21/2026,LOAFERS,FORMAL,Green,Timberland,Kenya,8,Cash
+7/30/2026,boots,CASUAL,Green,STEVE MADDEN,Cyprus,9,Mobile Money
+7/20/2026,Slippers,Formal,Black,Zara,Zimbabwe,10,Bank Transfer
+4/9/2026,Brogues,Formal,Red,Nike,Australia,6,Card
+5/31/2026,canvas,Formal,Blue,zara,Philippines,7,Card
+7/16/2026,boots,Open,Red,steve madden,Ghana,15,Cash
+6/30/2026,Monk Straps,formal,Blue,Zara,Australia,11,Bank Transfer
+5/14/2026,canvas,Casual,Red,nike,Nigeria,8,Card
+8/10/2026,Monk Straps,formal,Green,ZARA,Germany,8,Bank Transfer
+1/28/2026,canvas,UTILITY,Brown,nike,Australia,2,Mobile Money
+2/16/2026,OXFORD,FORMAL,Red,CLARKS,Ghana,12,Card
+7/26/2026,CANVAS,Formal,Blue,ZARA,Kenya,13,Cash
+3/28/2026,Loafers,Casual,Black,timberland,Kenya,3,Bank Transfer
+4/18/2026,Canvas,formal,Black,Zara,Cyprus,11,Card
+6/21/2026,BROGUES,FORMAL,Red,zara,UK,3,Bank Transfer
+2/7/2026,Oxford,open,Green,zara,UK,14,Card
+2/12/2026,Slippers,casual,Brown,Clarks,UK,1,Cash
+5/24/2026,BROGUES,Formal,Green,Steve Madden,Kenya,10,Bank Transfer
+7/7/2026,MONK STRAPS,FORMAL,Green,NIKE,Canada,7,Bank Transfer
+4/13/2026,oxford,utility,Brown,Zara,Philippines,6,Mobile Money
+6/26/2026,BROGUES,UTILITY,Brown,NIKE,India,8,Bank Transfer
+3/11/2026,boots,Formal,Green,ZARA,Canada,13,Card
+6/21/2026,canvas,formal,Black,timberland,Nigeria,11,Card
+6/6/2026,brogues,formal,Brown,ZARA,Ghana,8,Mobile Money
+1/2/2026,loafers,FORMAL,Black,STEVE MADDEN,Cyprus,13,Mobile Money
+1/2/2026,MONK STRAPS,UTILITY,Blue,zara,Nigeria,12,Cash
+3/25/2026,BOOTS,casual,Green,clarks,India,1,Card
+6/14/2026,LOAFERS,FORMAL,Red,Clarks,UK,10,Mobile Money
+4/12/2026,MONK STRAPS,CASUAL,Red,STEVE MADDEN,UK,15,Cash
+3/5/2026,Slippers,Formal,Brown,Clarks,Canada,3,Mobile Money
+1/6/2026,BOOTS,CASUAL,Blue,STEVE MADDEN,Nigeria,1,Bank Transfer
+7/15/2026,loafers,CASUAL,Red,CLARKS,Ghana,9,Cash
+5/5/2026,Derby,UTILITY,Black,ZARA,Cyprus,13,Bank Transfer
+6/14/2026,Slippers,Open,Black,Clarks,Philippines,10,Card
+6/6/2026,Monk Straps,Formal,Green,Nike,Zimbabwe,10,Bank Transfer
+7/17/2026,CANVAS,formal,Brown,zara,USA,15,Card
+4/28/2026,DERBY,casual,Red,zara,Australia,9,Mobile Money
+6/25/2026,BROGUES,casual,Brown,steve madden,Zimbabwe,14,Cash
+4/8/2026,Brogues,Formal,Black,CLARKS,Ghana,14,Mobile Money
+8/12/2026,Canvas,FORMAL,Black,Zara,USA,10,Card
+2/19/2026,BROGUES,casual,Green,zara,Australia,15,Bank Transfer
+6/24/2026,derby,CASUAL,Blue,TIMBERLAND,Cyprus,5,Mobile Money
+2/4/2026,Derby,Formal,Brown,TIMBERLAND,Cyprus,15,Bank Transfer
+1/11/2026,Canvas,casual,Black,timberland,Philippines,13,Cash
+8/7/2026,BROGUES,open,Green,timberland,Nigeria,9,Cash
+4/11/2026,derby,Utility,Black,clarks,Philippines,9,Card
+1/4/2026,Slippers,CASUAL,Green,CLARKS,Zimbabwe,9,Card
+3/8/2026,CANVAS,Formal,Blue,TIMBERLAND,Australia,3,Cash
+3/25/2026,brogues,casual,Brown,zara,Ghana,2,Mobile Money
+5/23/2026,BOOTS,UTILITY,Red,STEVE MADDEN,India,6,Bank Transfer
+5/11/2026,SLIPPERS,Open,Brown,ZARA,USA,4,Card
+7/8/2026,slippers,formal,Black,zara,Germany,7,Card
+3/3/2026,loafers,CASUAL,Blue,Zara,Canada,14,Card
+3/13/2026,loafers,UTILITY,Red,nike,Albania,12,Bank Transfer
+8/5/2026,DERBY,formal,Red,zara,UK,11,Card
+6/2/2026,slippers,Utility,Green,ZARA,UK,4,Bank Transfer
+1/17/2026,OXFORD,Formal,Red,Nike,Zimbabwe,4,Bank Transfer
+7/7/2026,DERBY,FORMAL,Black,Zara,Germany,3,Card
+5/23/2026,BROGUES,CASUAL,Brown,Steve Madden,Australia,15,Card
+2/19/2026,monk straps,UTILITY,Blue,Timberland,Australia,9,Card
+4/6/2026,canvas,open,Blue,zara,USA,12,Bank Transfer
+3/24/2026,BROGUES,open,Blue,Zara,Ghana,5,Cash
+4/5/2026,BOOTS,FORMAL,Brown,Clarks,Cyprus,4,Mobile Money
+7/20/2026,MONK STRAPS,Utility,Blue,ZARA,Kenya,10,Card
+7/18/2026,LOAFERS,OPEN,Red,Timberland,Ghana,4,Mobile Money
+8/14/2026,brogues,CASUAL,Green,CLARKS,USA,1,Bank Transfer
+2/1/2026,Monk Straps,FORMAL,Blue,Clarks,Germany,13,Card
+3/13/2026,loafers,open,Brown,CLARKS,Kenya,7,Card
+6/14/2026,Derby,FORMAL,Brown,clarks,Australia,10,Cash
+1/25/2026,MONK STRAPS,FORMAL,Brown,ZARA,Zimbabwe,5,Cash
+3/27/2026,Boots,Casual,Red,CLARKS,Australia,2,Mobile Money
+6/25/2026,derby,CASUAL,Brown,clarks,UK,8,Card
+7/20/2026,Brogues,FORMAL,Brown,ZARA,India,4,Card
+1/24/2026,loafers,Casual,Red,STEVE MADDEN,India,10,Card
+4/7/2026,BROGUES,Utility,Green,CLARKS,Zimbabwe,12,Bank Transfer
+4/5/2026,Boots,Formal,Green,ZARA,Uganda,4,Card
+3/10/2026,Boots,Formal,Brown,zara,USA,6,Cash
+5/8/2026,brogues,FORMAL,Red,NIKE,Canada,4,Card
+6/8/2026,Derby,formal,Green,TIMBERLAND,Uganda,5,Card
+3/16/2026,loafers,CASUAL,Green,Clarks,USA,5,Card
+6/20/2026,canvas,OPEN,Black,TIMBERLAND,Kenya,11,Bank Transfer
+7/1/2026,canvas,Open,Black,Steve Madden,Uganda,3,Bank Transfer
+2/8/2026,monk straps,FORMAL,Green,CLARKS,UK,4,Card
+6/14/2026,Oxford,casual,Blue,NIKE,Philippines,8,Cash
+5/6/2026,Canvas,open,Red,ZARA,Uganda,8,Cash
+2/27/2026,boots,formal,Blue,Zara,Nigeria,8,Cash
+5/9/2026,derby,UTILITY,Red,zara,Uganda,6,Card
+3/2/2026,boots,casual,Brown,Timberland,Canada,4,Mobile Money
+8/11/2026,Monk Straps,Formal,Blue,ZARA,Australia,14,Mobile Money
+1/30/2026,MONK STRAPS,FORMAL,Green,NIKE,Kenya,7,Mobile Money
+4/29/2026,Brogues,FORMAL,Brown,TIMBERLAND,India,8,Bank Transfer
+2/1/2026,Oxford,Formal,Black,Clarks,USA,12,Card
+1/15/2026,slippers,Formal,Brown,steve madden,UK,8,Card
+5/15/2026,OXFORD,open,Red,NIKE,Zimbabwe,11,Cash
+8/5/2026,BOOTS,UTILITY,Brown,ZARA,Philippines,2,Mobile Money
+4/12/2026,Slippers,formal,Green,Steve Madden,Kenya,7,Bank Transfer
+2/8/2026,Slippers,formal,Blue,ZARA,USA,1,Mobile Money
+3/9/2026,derby,utility,Blue,NIKE,Albania,11,Cash
+6/9/2026,BROGUES,CASUAL,Brown,nike,Ghana,14,Bank Transfer
+4/8/2026,SLIPPERS,Formal,Brown,zara,Ghana,4,Cash
+5/6/2026,Boots,FORMAL,Blue,CLARKS,Cyprus,5,Card
+7/25/2026,Canvas,formal,Brown,Clarks,Nigeria,5,Mobile Money
+6/12/2026,derby,Formal,Green,ZARA,USA,15,Bank Transfer
+6/21/2026,BOOTS,Formal,Brown,Clarks,USA,14,Card
+4/28/2026,loafers,open,Blue,TIMBERLAND,Uganda,6,Mobile Money
+7/13/2026,Derby,casual,Brown,zara,Zimbabwe,12,Cash
+1/1/2026,slippers,Casual,Black,clarks,USA,9,Cash
+5/29/2026,boots,Utility,Red,ZARA,India,7,Card
+2/13/2026,brogues,casual,Blue,zara,Philippines,13,Cash
+5/5/2026,MONK STRAPS,Utility,Red,clarks,USA,8,Bank Transfer
+1/19/2026,loafers,FORMAL,Black,NIKE,UK,6,Cash
+7/21/2026,Oxford,Formal,Green,NIKE,USA,13,Bank Transfer
+6/30/2026,Boots,Formal,Green,Zara,USA,7,Bank Transfer
+8/10/2026,Oxford,Open,Green,nike,Ghana,9,Bank Transfer
+4/10/2026,Derby,UTILITY,Brown,steve madden,Canada,3,Bank Transfer
+6/7/2026,MONK STRAPS,OPEN,Green,Timberland,UK,11,Mobile Money
+6/27/2026,CANVAS,Casual,Green,Clarks,India,15,Cash
+5/25/2026,monk straps,formal,Green,Zara,UK,9,Card
+8/2/2026,Monk Straps,formal,Red,Steve Madden,USA,1,Mobile Money
+5/10/2026,CANVAS,Formal,Blue,Nike,India,1,Bank Transfer
+2/18/2026,OXFORD,UTILITY,Brown,Steve Madden,Philippines,7,Cash
+4/14/2026,Monk Straps,FORMAL,Blue,Clarks,Uganda,13,Card
+2/16/2026,Oxford,FORMAL,Blue,CLARKS,Ghana,15,Card
+3/10/2026,Oxford,Formal,Brown,ZARA,Canada,9,Mobile Money
+2/7/2026,monk straps,UTILITY,Blue,clarks,Australia,15,Cash
+1/31/2026,Derby,formal,Green,zara,Albania,15,Bank Transfer
+3/17/2026,Slippers,FORMAL,Blue,Zara,India,13,Mobile Money
+2/24/2026,Derby,open,Red,Clarks,Nigeria,6,Bank Transfer
+1/19/2026,MONK STRAPS,open,Brown,Timberland,USA,6,Mobile Money
+6/16/2026,BOOTS,formal,Red,clarks,Cyprus,10,Card
+6/17/2026,DERBY,OPEN,Green,CLARKS,Germany,4,Mobile Money
+7/24/2026,Derby,open,Brown,Nike,Albania,7,Mobile Money
+5/27/2026,Oxford,Open,Blue,clarks,USA,10,Card
+2/13/2026,derby,formal,Red,TIMBERLAND,UK,10,Card
+1/31/2026,Loafers,formal,Brown,Clarks,Nigeria,15,Mobile Money
+4/19/2026,Loafers,open,Green,zara,Canada,1,Card
+3/24/2026,Canvas,open,Black,timberland,Uganda,2,Cash
+8/1/2026,Oxford,OPEN,Blue,Zara,Zimbabwe,12,Cash
+6/5/2026,LOAFERS,formal,Brown,NIKE,Cyprus,15,Bank Transfer
+6/17/2026,Derby,FORMAL,Blue,Timberland,Cyprus,13,Mobile Money
+3/29/2026,slippers,open,Green,clarks,Uganda,3,Cash
+7/5/2026,MONK STRAPS,Formal,Blue,Timberland,Albania,3,Cash
+3/16/2026,Slippers,FORMAL,Red,Clarks,Ghana,12,Mobile Money
+6/26/2026,canvas,Formal,Blue,zara,Nigeria,8,Cash
+3/30/2026,brogues,open,Blue,TIMBERLAND,Albania,4,Bank Transfer
+3/13/2026,Derby,Casual,Green,clarks,India,9,Card
+1/9/2026,canvas,FORMAL,Black,CLARKS,Nigeria,7,Cash
+6/1/2026,canvas,Formal,Brown,CLARKS,Ghana,8,Bank Transfer
+5/26/2026,Brogues,formal,Brown,clarks,Kenya,6,Bank Transfer
+2/6/2026,Canvas,Formal,Black,CLARKS,Canada,3,Bank Transfer
+3/7/2026,oxford,utility,Red,Clarks,USA,3,Cash
+1/10/2026,CANVAS,Formal,Red,clarks,Albania,7,Bank Transfer
+4/13/2026,SLIPPERS,Formal,Blue,CLARKS,Albania,5,Mobile Money
+1/27/2026,SLIPPERS,CASUAL,Red,Clarks,Germany,3,Card
+4/26/2026,Oxford,Open,Red,CLARKS,Uganda,12,Card
+6/20/2026,DERBY,Formal,Blue,clarks,UK,9,Card
+4/12/2026,slippers,formal,Red,Clarks,Australia,3,Mobile Money
+1/6/2026,oxford,formal,Red,Nike,Ghana,9,Bank Transfer
+3/9/2026,BROGUES,FORMAL,Blue,Zara,UK,2,Card
+6/9/2026,boots,Casual,Blue,Nike,Zimbabwe,6,Bank Transfer
+3/10/2026,OXFORD,Formal,Black,Timberland,Kenya,14,Card
+1/15/2026,loafers,Formal,Red,zara,Zimbabwe,7,Cash
+2/20/2026,boots,open,Red,Zara,Albania,8,Mobile Money
+5/5/2026,derby,Casual,Red,zara,UK,1,Mobile Money
+2/15/2026,LOAFERS,Formal,Red,clarks,India,9,Bank Transfer
+5/21/2026,derby,casual,Red,ZARA,India,1,Cash
+8/2/2026,Loafers,formal,Red,nike,Cyprus,14,Cash
+6/2/2026,slippers,CASUAL,Brown,timberland,Ghana,7,Card
+2/23/2026,BOOTS,utility,Black,CLARKS,Canada,6,Bank Transfer
+6/4/2026,Loafers,OPEN,Red,CLARKS,Philippines,6,Card
+5/19/2026,oxford,CASUAL,Red,Clarks,Philippines,4,Bank Transfer
+6/27/2026,monk straps,Utility,Blue,steve madden,India,12,Cash
+1/3/2026,BOOTS,FORMAL,Blue,CLARKS,USA,13,Card
+6/2/2026,loafers,formal,Red,zara,India,6,Cash
+4/15/2026,Brogues,Formal,Green,Nike,Kenya,13,Card
+4/8/2026,monk straps,Formal,Blue,nike,Cyprus,5,Cash
+5/7/2026,Loafers,Casual,Brown,Zara,Nigeria,2,Card
+5/29/2026,brogues,open,Red,timberland,Cyprus,7,Card
+3/31/2026,Monk Straps,CASUAL,Blue,NIKE,India,9,Cash
+5/2/2026,MONK STRAPS,Formal,Green,Zara,Uganda,6,Bank Transfer
+4/30/2026,Brogues,open,Black,TIMBERLAND,Kenya,10,Mobile Money
+7/18/2026,DERBY,open,Brown,TIMBERLAND,Albania,1,Card
+5/10/2026,Oxford,Casual,Brown,Zara,Uganda,13,Cash
+2/17/2026,loafers,Formal,Brown,Clarks,Ghana,9,Cash
+6/5/2026,Slippers,casual,Green,CLARKS,Canada,15,Cash
+1/25/2026,canvas,OPEN,Red,ZARA,Ghana,14,Card
+5/9/2026,monk straps,Open,Blue,clarks,USA,15,Card
+3/22/2026,OXFORD,FORMAL,Green,CLARKS,USA,14,Card
+6/19/2026,slippers,Casual,Blue,clarks,Albania,6,Cash
+1/15/2026,LOAFERS,UTILITY,Red,Nike,UK,15,Mobile Money
+3/8/2026,boots,Open,Black,STEVE MADDEN,Albania,6,Bank Transfer
+3/15/2026,canvas,casual,Brown,Zara,USA,10,Bank Transfer
+4/12/2026,Oxford,CASUAL,Blue,Clarks,Germany,4,Card
+6/15/2026,LOAFERS,Formal,Blue,zara,Germany,11,Mobile Money
+7/11/2026,MONK STRAPS,casual,Brown,ZARA,Zimbabwe,4,Bank Transfer
+7/13/2026,BROGUES,CASUAL,Blue,Nike,Germany,10,Cash
+3/28/2026,DERBY,Formal,Black,STEVE MADDEN,Germany,3,Cash
+1/25/2026,Derby,FORMAL,Black,Clarks,Ghana,5,Cash
+4/16/2026,monk straps,Formal,Black,nike,Zimbabwe,10,Mobile Money
+1/19/2026,Monk Straps,FORMAL,Green,Clarks,Albania,5,Mobile Money
+4/30/2026,Canvas,Casual,Green,clarks,India,7,Bank Transfer
+5/25/2026,Monk Straps,formal,Black,Nike,USA,5,Cash
+1/20/2026,Derby,CASUAL,Green,Clarks,Kenya,4,Cash
+5/31/2026,loafers,Formal,Red,CLARKS,Philippines,10,Bank Transfer
+1/8/2026,DERBY,casual,Green,CLARKS,Zimbabwe,12,Card
+5/15/2026,canvas,Formal,Red,clarks,USA,8,Bank Transfer
+1/13/2026,Oxford,formal,Brown,timberland,Uganda,4,Mobile Money
+3/28/2026,canvas,Open,Green,CLARKS,Philippines,13,Bank Transfer
+7/16/2026,boots,Formal,Brown,STEVE MADDEN,Philippines,14,Card
+1/20/2026,boots,UTILITY,Green,TIMBERLAND,Canada,1,Cash
+7/24/2026,brogues,formal,Red,STEVE MADDEN,India,15,Cash
+6/7/2026,Slippers,Casual,Green,clarks,Albania,13,Bank Transfer
+1/24/2026,canvas,formal,Blue,CLARKS,Cyprus,8,Bank Transfer
+2/25/2026,boots,UTILITY,Green,Zara,UK,8,Cash
+4/30/2026,brogues,utility,Black,nike,Cyprus,10,Mobile Money
+1/3/2026,loafers,casual,Blue,Clarks,Uganda,14,Cash
+6/10/2026,Loafers,open,Brown,ZARA,Kenya,1,Cash
+2/27/2026,Monk Straps,Casual,Red,TIMBERLAND,UK,11,Card
+6/28/2026,BOOTS,UTILITY,Blue,timberland,Uganda,8,Card
+2/5/2026,Monk Straps,UTILITY,Brown,clarks,India,13,Cash
+4/17/2026,slippers,UTILITY,Red,Timberland,UK,6,Bank Transfer
+8/8/2026,BROGUES,open,Red,Zara,Uganda,8,Bank Transfer
+1/12/2026,LOAFERS,Formal,Blue,Nike,USA,13,Mobile Money
+7/15/2026,monk straps,formal,Brown,ZARA,Australia,6,Bank Transfer
+4/14/2026,oxford,formal,Brown,nike,Philippines,5,Mobile Money
+7/1/2026,Derby,Open,Black,NIKE,Zimbabwe,4,Mobile Money
+5/17/2026,monk straps,UTILITY,Green,CLARKS,Australia,3,Bank Transfer
+4/18/2026,slippers,Formal,Blue,CLARKS,USA,5,Card
+7/21/2026,DERBY,formal,Green,zara,Ghana,4,Card
+8/8/2026,DERBY,CASUAL,Brown,CLARKS,USA,7,Card
+4/2/2026,LOAFERS,UTILITY,Green,CLARKS,USA,6,Card
+7/28/2026,Derby,FORMAL,Brown,zara,Cyprus,7,Cash
+3/6/2026,Loafers,Formal,Blue,Steve Madden,India,12,Bank Transfer
+7/25/2026,SLIPPERS,Casual,Green,Zara,India,10,Mobile Money
+7/20/2026,Loafers,formal,Brown,Clarks,UK,6,Card
+3/25/2026,derby,formal,Blue,timberland,UK,15,Cash
+1/28/2026,CANVAS,Formal,Red,Steve Madden,Zimbabwe,3,Mobile Money
+4/5/2026,slippers,Casual,Black,Timberland,Canada,1,Card
+8/12/2026,Canvas,FORMAL,Black,CLARKS,India,9,Bank Transfer
+6/26/2026,Oxford,Formal,Red,ZARA,Philippines,7,Card
+5/28/2026,monk straps,Formal,Brown,clarks,Germany,4,Cash
+2/9/2026,SLIPPERS,OPEN,Brown,Steve Madden,Cyprus,7,Card
+3/5/2026,BOOTS,Casual,Green,timberland,Kenya,10,Mobile Money
+2/25/2026,loafers,formal,Brown,CLARKS,USA,2,Mobile Money
+6/10/2026,brogues,CASUAL,Blue,CLARKS,UK,14,Card
+1/10/2026,canvas,Casual,Blue,clarks,Uganda,6,Mobile Money
+7/17/2026,OXFORD,Casual,Blue,TIMBERLAND,Uganda,5,Cash
+2/20/2026,Brogues,casual,Green,TIMBERLAND,Uganda,4,Bank Transfer
+6/26/2026,boots,Casual,Blue,Timberland,Nigeria,4,Bank Transfer
+6/16/2026,oxford,FORMAL,Blue,Nike,UK,10,Cash
+6/12/2026,Monk Straps,open,Black,Nike,Cyprus,14,Cash
+6/28/2026,Slippers,CASUAL,Green,timberland,USA,8,Mobile Money
+1/9/2026,CANVAS,Formal,Black,ZARA,Germany,3,Cash
+7/5/2026,Canvas,FORMAL,Black,Clarks,Zimbabwe,13,Bank Transfer
+6/23/2026,derby,FORMAL,Green,nike,Nigeria,8,Bank Transfer
+3/9/2026,Loafers,Casual,Green,timberland,Zimbabwe,6,Bank Transfer
+1/21/2026,Oxford,Formal,Red,zara,Australia,14,Cash
+5/20/2026,slippers,CASUAL,Blue,clarks,Ghana,1,Card
+5/27/2026,Canvas,FORMAL,Green,nike,Kenya,11,Mobile Money
+5/26/2026,DERBY,CASUAL,Black,clarks,Ghana,9,Bank Transfer
+5/14/2026,Brogues,formal,Green,ZARA,Kenya,2,Bank Transfer
+1/15/2026,monk straps,Formal,Brown,zara,Zimbabwe,9,Card
+6/2/2026,slippers,Formal,Brown,ZARA,Kenya,8,Card
+5/31/2026,Boots,FORMAL,Green,NIKE,UK,9,Bank Transfer
+1/2/2026,BOOTS,formal,Black,clarks,Canada,11,Card
+1/25/2026,OXFORD,Utility,Black,clarks,Kenya,8,Bank Transfer
+3/31/2026,Derby,open,Green,Zara,India,7,Cash
+3/4/2026,LOAFERS,Formal,Red,steve madden,Cyprus,8,Cash
+4/5/2026,Monk Straps,Utility,Red,zara,Kenya,13,Mobile Money
+3/26/2026,BROGUES,UTILITY,Brown,zara,Uganda,14,Card
+4/30/2026,MONK STRAPS,open,Brown,CLARKS,Cyprus,11,Mobile Money
+1/7/2026,BOOTS,Open,Green,Zara,Zimbabwe,14,Card
+3/31/2026,canvas,FORMAL,Red,nike,Cyprus,13,Bank Transfer
+7/17/2026,oxford,casual,Black,nike,Ghana,9,Mobile Money
+4/22/2026,oxford,Utility,Brown,TIMBERLAND,Zimbabwe,6,Mobile Money
+7/7/2026,Brogues,Utility,Blue,timberland,Philippines,12,Cash
+3/18/2026,Canvas,open,Green,NIKE,Canada,7,Bank Transfer
+4/22/2026,LOAFERS,utility,Blue,TIMBERLAND,Uganda,14,Mobile Money
+5/17/2026,Boots,OPEN,Blue,CLARKS,Zimbabwe,8,Mobile Money
+2/14/2026,Oxford,FORMAL,Red,ZARA,Germany,3,Bank Transfer
+7/10/2026,BOOTS,Formal,Red,Zara,Australia,15,Mobile Money
+3/29/2026,OXFORD,utility,Brown,Steve Madden,Ghana,5,Card
+5/6/2026,OXFORD,UTILITY,Green,Clarks,UK,2,Card
+4/22/2026,Canvas,casual,Black,ZARA,Canada,14,Cash
+2/24/2026,canvas,Formal,Brown,Timberland,Nigeria,5,Bank Transfer
+5/13/2026,brogues,formal,Blue,Clarks,India,13,Mobile Money
+5/30/2026,CANVAS,Formal,Green,timberland,UK,3,Bank Transfer
+3/6/2026,Slippers,Formal,Green,CLARKS,Albania,8,Card
+8/1/2026,slippers,Utility,Red,CLARKS,Albania,1,Mobile Money
+1/30/2026,derby,casual,Blue,steve madden,UK,5,Cash
+7/5/2026,Slippers,Casual,Green,Zara,India,8,Bank Transfer
+4/22/2026,derby,formal,Blue,Steve Madden,USA,4,Card
+6/29/2026,MONK STRAPS,Casual,Blue,Clarks,UK,4,Card
+5/12/2026,Brogues,casual,Black,Steve Madden,Zimbabwe,10,Card
+2/9/2026,Brogues,Formal,Red,Zara,Uganda,8,Cash
+3/27/2026,MONK STRAPS,CASUAL,Green,NIKE,UK,5,Bank Transfer
+3/25/2026,Brogues,casual,Red,timberland,Kenya,2,Card
+7/6/2026,canvas,Casual,Red,timberland,Kenya,6,Mobile Money
+8/13/2026,BROGUES,CASUAL,Blue,steve madden,Germany,7,Cash
+6/28/2026,boots,FORMAL,Green,zara,Australia,3,Card
+2/27/2026,monk straps,FORMAL,Brown,Clarks,Kenya,5,Bank Transfer
+2/21/2026,Derby,Open,Green,Clarks,USA,3,Bank Transfer
+3/5/2026,brogues,Open,Red,TIMBERLAND,Germany,7,Cash
+5/2/2026,derby,Casual,Brown,CLARKS,Australia,3,Bank Transfer
+5/20/2026,CANVAS,FORMAL,Green,Clarks,Germany,8,Cash
+3/24/2026,derby,casual,Red,zara,Philippines,3,Card
+6/2/2026,SLIPPERS,UTILITY,Blue,Steve Madden,USA,5,Cash
+4/14/2026,monk straps,casual,Red,Clarks,Germany,3,Mobile Money
+6/16/2026,Oxford,FORMAL,Black,clarks,Kenya,13,Card
+1/1/2026,boots,Casual,Red,clarks,India,12,Cash
+7/4/2026,MONK STRAPS,CASUAL,Black,CLARKS,USA,3,Card
+6/15/2026,oxford,OPEN,Brown,Clarks,Canada,2,Cash
+6/5/2026,Canvas,formal,Black,zara,Cyprus,14,Cash
+6/20/2026,Brogues,formal,Red,clarks,USA,4,Mobile Money
+7/12/2026,loafers,formal,Red,nike,Uganda,4,Cash
+4/19/2026,boots,Formal,Brown,Clarks,Nigeria,4,Card
+8/11/2026,slippers,OPEN,Black,NIKE,Uganda,1,Cash
+8/4/2026,Boots,formal,Red,ZARA,Kenya,5,Cash
+6/27/2026,BROGUES,Formal,Brown,zara,Australia,5,Cash
+1/8/2026,brogues,formal,Blue,steve madden,Ghana,3,Cash
+7/23/2026,Brogues,FORMAL,Blue,STEVE MADDEN,Germany,11,Bank Transfer
+8/1/2026,BOOTS,CASUAL,Black,clarks,Kenya,9,Mobile Money
+7/20/2026,Oxford,Formal,Blue,zara,USA,15,Bank Transfer
+1/27/2026,Monk Straps,CASUAL,Blue,zara,UK,10,Cash
+3/2/2026,Slippers,FORMAL,Brown,zara,Cyprus,5,Cash
+5/18/2026,Slippers,formal,Green,Clarks,Australia,9,Cash
+7/17/2026,MONK STRAPS,formal,Black,CLARKS,Albania,1,Cash
+3/13/2026,BOOTS,Casual,Blue,Clarks,Canada,8,Card
+6/4/2026,Oxford,open,Green,Clarks,India,8,Mobile Money
+7/28/2026,Derby,open,Red,CLARKS,Cyprus,9,Card
+6/30/2026,BROGUES,CASUAL,Black,NIKE,Philippines,10,Bank Transfer
+8/4/2026,canvas,open,Green,Clarks,Ghana,6,Card
+6/4/2026,Canvas,Formal,Green,NIKE,Ghana,4,Cash
+3/18/2026,MONK STRAPS,Formal,Black,Timberland,Nigeria,4,Bank Transfer
+1/13/2026,boots,FORMAL,Red,STEVE MADDEN,USA,14,Bank Transfer
+6/2/2026,Brogues,Formal,Green,STEVE MADDEN,USA,8,Card
+1/22/2026,BOOTS,FORMAL,Black,CLARKS,USA,3,Card
+4/30/2026,CANVAS,CASUAL,Red,CLARKS,Cyprus,10,Bank Transfer
+3/9/2026,loafers,UTILITY,Black,clarks,Ghana,7,Card
+7/8/2026,Slippers,Formal,Black,Nike,USA,6,Mobile Money
+2/7/2026,Derby,FORMAL,Black,nike,India,13,Mobile Money
+1/26/2026,MONK STRAPS,CASUAL,Black,Clarks,Nigeria,4,Bank Transfer
+7/31/2026,Slippers,Formal,Brown,zara,Zimbabwe,3,Bank Transfer
+2/25/2026,Canvas,CASUAL,Brown,zara,UK,13,Mobile Money
+4/19/2026,boots,casual,Brown,Nike,Kenya,9,Bank Transfer
+5/25/2026,loafers,Casual,Black,steve madden,India,10,Bank Transfer
+1/9/2026,Slippers,CASUAL,Green,Nike,USA,6,Cash
+7/11/2026,Derby,Casual,Black,Clarks,USA,15,Card
+7/16/2026,Slippers,FORMAL,Brown,clarks,Canada,11,Card
+2/27/2026,MONK STRAPS,casual,Brown,ZARA,Albania,9,Cash
+5/31/2026,derby,Formal,Brown,ZARA,Philippines,8,Mobile Money
+5/3/2026,boots,FORMAL,Red,Clarks,Nigeria,13,Mobile Money
+7/12/2026,Canvas,CASUAL,Red,ZARA,Cyprus,6,Cash
+1/4/2026,OXFORD,Casual,Brown,TIMBERLAND,India,3,Mobile Money
+2/25/2026,DERBY,Formal,Brown,Clarks,Germany,8,Bank Transfer
+2/12/2026,Monk Straps,formal,Black,zara,Albania,15,Mobile Money
+7/15/2026,monk straps,FORMAL,Red,Clarks,UK,2,Bank Transfer
+4/25/2026,brogues,Formal,Red,clarks,Germany,10,Mobile Money
+1/23/2026,Loafers,Formal,Red,NIKE,India,5,Bank Transfer
+3/14/2026,DERBY,Formal,Brown,Zara,Canada,15,Cash
+2/11/2026,Canvas,formal,Black,steve madden,Zimbabwe,15,Cash
+5/12/2026,BOOTS,Open,Red,Clarks,Nigeria,10,Card
+2/26/2026,Canvas,Open,Red,CLARKS,Canada,5,Bank Transfer
+4/21/2026,Derby,OPEN,Brown,TIMBERLAND,India,5,Cash
+6/25/2026,loafers,open,Black,Zara,Uganda,8,Bank Transfer
+6/2/2026,oxford,FORMAL,Green,steve madden,Kenya,3,Bank Transfer
+6/11/2026,canvas,CASUAL,Green,CLARKS,Nigeria,5,Mobile Money
+7/15/2026,Derby,casual,Red,CLARKS,Germany,4,Bank Transfer
