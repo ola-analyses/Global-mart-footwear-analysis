@@ -106,8 +106,13 @@ The analysis highlighted the following findings:
 - Finally, continuous data collection and analysis should be encouraged to support evidence-based decision-making, track key performance indicators, and identify opportunities to improve sales performance and profitability across the business.
 
   ## 📂 Project Files
+  [Dashboard](https://github.com/ola-analyses/Global-mart-footwear-analysis/blob/main/Shoe%20dashboard.pbix)
+  
+  [Dataset CSV](https://github.com/ola-analyses/Global-mart-footwear-analysis/blob/main/Uncleaned%20Shoes%20Dataset.csv)
 
-  **📊 Dashboard**
+  [Executive Overview Screenshot](https://github.com/ola-analyses/Global-mart-footwear-analysis/blob/main/overview_page.png)
+
+  [Product Analysis Screenshot](https://github.com/ola-analyses/Global-mart-footwear-analysis/blob/main/product_analysis.png)
   
   
   
