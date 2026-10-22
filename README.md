@@ -1,7 +1,11 @@
-# Global-mart-footwear-analysis
+ # Global-mart-footwear-analysis
 
 ## **Executive Summary:**
-Using Power Query, DAX, and Power BI, I transformed raw sales data into an interactive dashboard to analyze sales, revenue, and profitability performance for Global Mart Footwear. Global Mart Footwear achieved $344K in Total Sales across 3,905 units sold, generating $158K in Net Profit at a 46% Profit Margin and an Average Order Value (AOV) of $711.73. The Analysis reveals that Clarks leads brand revenue ($124K), the USA dominates geographic volume, and Derby shoes yield the highest profit margin at 50%. 
+Using Power Query, DAX, and Power BI, I transformed raw sales data into an interactive dashboard to analyze sales performance and profitability for Global Mart Footwear.
+
+The reported results show **$344K in total sales across 3,905 units sold, $158K in profit, a 46% profit margin, and an average order value (AOV) of $711.73**. The analysis identified Clarks as the leading brand by sales, generating approximately $124K, while Derby shoes recorded the highest reported profit margin at 50%. The USA was identified as the leading market by sales volume.
+
+The dashboard provides an overview of business performance and enables users to compare results across brands, footwear categories, and geographic markets.
 
 ## **Business Problem**
 Global Mart Footwear operates across multiple markets and sells a variety of footwear products under different brands. 
@@ -16,21 +20,36 @@ Key business questions:
 ## **About the Data**
 The dataset consists of retail transaction records detailing sales performance across geographic regions, product categories, brands, colors, Quantity and payment methods.
 
- **Order Metrics** Order Date, Sales Amount, Quantity, Cost, Profit, Profit Margin 
+ **Order Metrics:** Order Date, Sales Amount, Quantity, Cost, Profit, Profit Margin 
  
- **Product Categorization** Brand (Clarks, Zara, Steve Madden, Timberland), Category (Boots, Oxfords, Loafers, Derby, Monk Straps, Slippers), Color.
+ **Product Categorization:** Brand (Clarks, Zara, Steve Madden, Timberland), Category (Boots, Oxfords, Loafers, Derby, Monk Straps, Slippers), Color.
 
-**Geographics** Country (USA, UK, Ghana, Zimbabwe, India, Kenya, Cyprus, Uganda)
+**Geographics:** Country (USA, UK, Ghana, Zimbabwe, India, Kenya, Cyprus, Uganda)
 
-**Customer Transaction Channel** Payment Type (Card, Cash, Bank Transfer, Mobile)
+**Customer Transaction Channel:** Payment Type (Card, Cash, Bank Transfer, Mobile)
 
-## **📊 Dashboard Visuals**
+## **📊 Dashboard Preview**
+ ### **Executive Overview**
+![Executive Overview](https://github.com/ola-analyses/Global-mart-footwear-analysis/blob/main/overview_page.png)
 
 
-Executive Overview Page
+## **Product Analysis**
+![Product Analysis](https://github.com/ola-analyses/Global-mart-footwear-analysis/blob/main/product_analysis.png)
 
+## **Methodology**
 
- Product & Brand Analysis Page
+1. Used Power Query to extract, clean, and transform raw Excel/CSV data. Handled missing values, validated numeric data types, and standardized product and geographic fields.
+
+2. Developed DAX measures to track key performance indicators (KPI), including Total Sales, Units Sold, Total Profit, and Profit Margin.
+
+3. Built an interactive, two-page Power BI dashboard (*Executive Overview* and *Product Analysis*) to visualize business performance and compare sales and profitability across brands, product categories, and geographic markets.
+   
+ ## **🛠️ Tool & SKill**
+ Power Bi: DAX, Writing functions, ETL, Calculated Column, Data Visualization, Data Modeling 
+
+ Microsoft Excel
+
+ Power Query
 
 ## **Results**
 
@@ -40,15 +59,12 @@ Our analysis revealed that while volume is driven by popular brands like Clarks 
 
 ## **Business Recommendations**
 
-Focus on high-profit products rather than relying only on sales volume.
+1. Focus on high-profit products rather than relying only on sales volume.
 
-Monitor discount levels to protect profit margins.
+2. Monitor discount levels to protect profit margins.
 
-Strengthen sales strategies in lower-performing regions and months.
+3. Strengthen sales strategies in lower-performing regions and months.
 
-Promote products that combine high demand with strong profitability.
+4. Promote products that combine high demand with strong profitability.
 
-Continue optimizing shipping strategies, particularly around premium delivery options.
-
-Use regional and product-level insights to support more targeted business decisions.
-
+5.  Use regional and product-level insights to support more targeted business decisions.
